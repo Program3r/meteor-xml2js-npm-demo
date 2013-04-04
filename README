@@ -4,7 +4,7 @@ How this works:
   to your app.
 
 - packages/xml2js/package.js describes the package, including its Npm
-  dependencies
+  dependencies.
 
 - packages/xml2js/xml2js.js wraps an asyncronous node module in a
-  synchronous api, using Futures
+  synchronous api, using Futures.
