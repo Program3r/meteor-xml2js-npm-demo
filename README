@@ -3,7 +3,7 @@ How this works:
 - The packages/ directory in an app contains smart packages that get added
   to your app.
 
-- packages/xml2js/package.js describes the package, including its Npm
+- packages/xml2js/package.js describes the package, including its NPM
   dependencies.
 
 - packages/xml2js/xml2js.js wraps an asyncronous node module in a
