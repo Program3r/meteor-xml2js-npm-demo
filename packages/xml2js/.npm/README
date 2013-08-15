@@ -1,7 +1,0 @@
-This directory and the contained npm-shrinkwrap.json file are automatically
-generated when you change this package's npm dependencies. Commit this
-directory and the npm-shrinkwrap.json file to source control so that
-others run the same versions of sub-dependencies.
-
-Note the .gitignore in this directory is configured to ignore the
-node_modules sub-directory that meteor automatically creates.
